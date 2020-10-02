@@ -35,4 +35,4 @@ mvn -Dtest=N11SmokeTest test
  
  For more information : https://github.com/junit-team/junit4/wiki/Test-execution-order
             
-**NOTE:** You can find manual test case documentaion here --> [manualtestcase.docx](src/test/resources/manueltestcase.docx)
+**NOTE:** You can find manual test case documentaion here --> [manualtestcase.docx](src/test/resources/manualtestcase.docx)
